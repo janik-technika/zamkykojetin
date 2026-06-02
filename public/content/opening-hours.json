@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "day": "Po",
+      "closed": true,
+      "ranges": []
+    },
+    {
+      "day": "Út",
+      "closed": false,
+      "ranges": [
+        {
+          "from": "9:00",
+          "to": "12:00"
+        },
+        {
+          "from": "13:00",
+          "to": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "St",
+      "closed": false,
+      "ranges": [
+        {
+          "from": "9:00",
+          "to": "12:00"
+        },
+        {
+          "from": "13:00",
+          "to": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "Čt",
+      "closed": false,
+      "ranges": [
+        {
+          "from": "9:00",
+          "to": "12:00"
+        },
+        {
+          "from": "13:00",
+          "to": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "Pá",
+      "closed": false,
+      "ranges": [
+        {
+          "from": "9:00",
+          "to": "12:00"
+        },
+        {
+          "from": "13:00",
+          "to": "16:30"
+        }
+      ]
+    },
+    {
+      "day": "So",
+      "closed": false,
+      "ranges": [
+        {
+          "from": "9:00",
+          "to": "11:00"
+        }
+      ]
+    },
+    {
+      "day": "Ne",
+      "closed": true,
+      "ranges": []
+    }
+  ],
+  "note": ""
+}
